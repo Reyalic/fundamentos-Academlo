@@ -1,0 +1,12 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "var": "node 01-variables/ejerciciosConVariables.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
